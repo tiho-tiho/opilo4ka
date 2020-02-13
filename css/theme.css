@@ -1,0 +1,122 @@
+body {
+  font-size: 15px;
+}
+
+nav ul a {
+  color: #444;
+}
+
+.p{
+  line-height: 2;
+}
+
+.ap-60 {
+  padding: 60px !important;
+}
+
+.brand-logo {
+  margin: 8px 0 0 8px !important;
+}
+
+.grey-darken {
+  background-color: #1f292f !important;
+}
+
+.fs-14{
+  font-size: 14px;
+}
+
+.fs-15 {
+  font-size: 15px;
+}
+
+.fs-17 {
+  font-size: 17px;
+}
+
+.fs-18 {
+  font-size: 18px;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+.fs-30 {
+  font-size: 30px;
+}
+
+.fs-60 {
+  font-size: 60px !important;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-700 {
+  font-weight: 700!important;
+}
+
+.icon-block {
+  padding: 0 12px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+
+.mb-6 {
+  margin-bottom: 6px !important;
+}
+
+.mb-90{
+  margin-bottom: 90px !important;
+}
+
+
+.mr-10 {
+  margin-right: 2px;
+}
+
+.mt-0 {
+  margin-top: 0 !important;
+}
+
+.mt-90 {
+  margin-top: 90px !important;
+}
+
+
+.parallax-container {
+  min-height: 650px;
+  color: rgba(255, 255, 255, .9);
+}
+
+.pa-40{
+  padding: 40px !important;
+}
+
+.pa-90{
+  padding: 90px !important;
+}
+
+.pa-80{
+  padding: 80px !important;
+}
+
+.pt-60{
+  padding-top: 60px;
+}
+
+.pr-10{
+  padding-left: 10px !important;
+}
+
+.pr-50{
+  padding-right: 50px;
+}
