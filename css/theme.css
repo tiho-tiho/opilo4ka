@@ -1,12 +1,8 @@
-body {
-  font-size: 15px;
-}
-
 nav ul a {
   color: #444;
 }
 
-.p{
+p{
   line-height: 2;
 }
 
@@ -20,6 +16,15 @@ nav ul a {
 
 .grey-darken {
   background-color: #1f292f !important;
+}
+
+
+.co-black{
+  color: black !important;
+}
+
+.fs-12{
+  font-size: 12px;
 }
 
 .fs-14{
@@ -55,7 +60,7 @@ nav ul a {
 }
 
 .fw-700 {
-  font-weight: 700!important;
+  font-weight: 700 !important;
 }
 
 .icon-block {
@@ -72,6 +77,10 @@ nav ul a {
 
 .mb-6 {
   margin-bottom: 6px !important;
+}
+
+.mb-10 {
+  margin-bottom: 10px !important;
 }
 
 .mb-90{
