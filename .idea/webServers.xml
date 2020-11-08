@@ -2,12 +2,11 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c8e92226-eb3d-4cd6-bb07-56b582ad7686" name="opilo4ka" url="http://crsprt-gmail-com.myjino.ru">
-        <fileTransfer host="crsprt-gmail-com.myjino.ru" port="21" accessType="FTPS">
+      <webServer id="c8e92226-eb3d-4cd6-bb07-56b582ad7686" name="opilo4ka" url="http://opilo4ka.ru">
+        <fileTransfer accessType="FTPS" host="opilo4ka.ru" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
